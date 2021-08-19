@@ -4,5 +4,5 @@
 - 🌱 I’m currently learning C++ and DS Algo.
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: 
-- 😄 Pronouns: He/His.
-- ⚡ Fun fact: 
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I mostly spend my time listing songs and enhancing my skills.
