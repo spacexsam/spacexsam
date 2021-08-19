@@ -1,6 +1,6 @@
 ### Hi there, I'm sam! 👋👋
 
-- 🔭 I’m currently working on my CP and coding skills.
+- 🔭 I’m currently working on my coding skills and CP.
 - 🌱 I’m currently learning C++ and DS Algo.
 - 💬 Ask me about any tech related stuff.
 - 📫 How to reach me: It will we updated for now check my Bio.
