@@ -54,18 +54,18 @@
 <h3 align="left">📊 My Github Stats:</h3>
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=samgeorgian&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 90%" />
+<img src="https://github-readme-stats.vercel.app/api?username=samgeorgian&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="left" style="width: 90%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samgeorgian&hide_border=true&layout=compact" align="left" style="width: 90%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samgeorgian&hide_border=true&layout=compact&theme=github_dark" align="left" style="width: 90%" />
 
 </td></tr></table>  
 
 <br/>
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samgeorgian&" alt="samgeorgian" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=samgeorgian&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&ring=DD8D25&fire=C0A600&dates=F09D21&stroke=FF9216&border=9C9C9CB3" alt="samgeorgian" />
 </p>
 
 <br/>
