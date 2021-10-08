@@ -16,9 +16,9 @@
 <img src="https://komarev.com/ghpvc/?username=samgeorgian&label=Visitors&color=0e75b6&style=flat" alt="samgeorgian" />
 
 - 🔭 I’m currently working on my coding skills and CP.
-- 🌱 I’m currently learning C++ and DS Algo.
+- 🌱 I’m also currently learning C++ and DS Algo.
 - 💬 Ask me about any tech related stuff.
-- 📫 How to reach me: It will we updated for now check my Bio.
+- 📫 How to reach me: <a href="mailto:samgeorgian12@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="samgeorgian" height="25" width="85" /></a>
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I mostly spend my time listing songs and enhancing my skills.
 <!-- - 👨‍💻 All of my projects are available at [harshit9270.xyz](https://harshit9270.xyz) -->
