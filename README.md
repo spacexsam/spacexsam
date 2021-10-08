@@ -13,7 +13,7 @@
 </p>
 
 [![Repos Badge](https://badges.pufler.dev/repos/samgeorgian)](https://badges.pufler.dev)
-<img src="https://komarev.com/ghpvc/?username=samgeorgian&label=Profile%20views&color=0e75b6&style=flat" alt="samgeorgian" />
+<img src="https://komarev.com/ghpvc/?username=samgeorgian&label=Visitors&color=0e75b6&style=flat" alt="samgeorgian" />
 
 - 🔭 I’m currently working on my coding skills and CP.
 - 🌱 I’m currently learning C++ and DS Algo.
@@ -70,4 +70,4 @@
 
 <br/>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=samgeorgian&theme=react-blayck&bg_color=ffffff&hide_border=true" width="100%"/>
+<!-- <img src="https://activity-graph.herokuapp.com/graph?username=samgeorgian&theme=react-blayck&bg_color=ffffff&hide_border=true" width="100%"/> -->
