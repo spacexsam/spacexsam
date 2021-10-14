@@ -37,8 +37,8 @@
 
 <h3 align="left">📚 My Skills:</h3>
 <p align="left"> 
-<a href="https://www.geeksforgeeks.org/c-programming-language/?ref=leftbar" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" width="55" height="25"/> </a> 
-<a href="https://www.geeksforgeeks.org/c-plus-plus/?ref=leftbar" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus" width="65" height="25"/> </a> 
+<a href="https://www.geeksforgeeks.org/c-programming-language/?ref=leftbar" target="_blank"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplu" alt="c" width="65" height="25"/> </a> 
+<a href="https://www.geeksforgeeks.org/c-plus-plus/?ref=leftbar" target="_blank"> <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="c" width="55" alt="cplusplus" width="65" height="25"/> </a> 
 <a href="https://www.geeksforgeeks.org/java/?ref=leftbar" target="_blank"> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="css3" width="70" height="25"/> </a>   
 <!-- <a href="https://www.geeksforgeeks.org/python-programming-language/?ref=leftbar" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="python" width="85" height="25"/> </a>  -->
 <a href="https://www.geeksforgeeks.org/html-tutorials/?ref=lbp" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="75" height="25"/> </a> 
