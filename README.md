@@ -52,22 +52,18 @@
 <!-- ## 🙂 Latest Projects -->
 
 <h3 align="left">📊 My Github Stats:</h3>
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=samgeorgian&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="left" style="width: 90%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samgeorgian&hide_border=true&layout=compact&theme=github_dark" align="left" style="width: 90%" />
-
-</td></tr></table>  
-
-<br/>
+<td valign="top" width="50%">
+ 
+ <table>
+  <tr>
+   <td><img src="https://github-readme-stats.vercel.app/api?username=samgeorgian&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sam" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=samgeorgian&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="sam" /></td>
+  </tr>
+</table>
 
 <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=samgeorgian&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&ring=DD8D25&fire=C0A600&dates=F09D21&stroke=FF9216&border=9C9C9CB3" alt="samgeorgian" />
 </p>
 
-<br/>
 
 <!-- <img src="https://activity-graph.herokuapp.com/graph?username=samgeorgian&theme=react-blayck&bg_color=ffffff&hide_border=true" width="100%"/> -->
