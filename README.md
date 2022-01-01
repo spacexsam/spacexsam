@@ -1,15 +1,13 @@
- # Hey <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif" width="40px">, I'm [Sam](https://www.linkedin.com/in/shubham-singh-09b09a203/) 
+ ### Hey there <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif" width="30px">, I'm [Sam](https://www.linkedin.com/in/shubham-singh-09b09a203/) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/shubham-singh-09b09a203/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="samgeorgian" height="25" width="85" /></a>
 <a href="https://twitter.com/sam_georgian" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="samgeorgian" height="25" width="80" /></a>
-<a href="https://www.instagram.com/i.samgeorgian/" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="i.samgeorgian" height="25" width="100" /></a>
-<a href="mailto:samgeorgian12@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="samgeorgian" height="25" width="85" /></a>
 <a href="https://github.com/samgeorgian" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="samgeorgian" height="25" width="90" /></a>
 </p>
 <p align="center">
-<img  align = "center" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" width="75%" alt="samgeorgian"/>
+<img  align = "right" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" width="45%" alt="samgeorgian"/>
 </p>
 
 [![Repos Badge](https://badges.pufler.dev/repos/samgeorgian)](https://badges.pufler.dev)
