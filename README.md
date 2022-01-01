@@ -1,4 +1,4 @@
- ### Hey there <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif" width="30px">, I'm [Sam](https://www.linkedin.com/in/shubham-singh-09b09a203/) 
+ ### Hey there <img src="https://github.com/AbdallahHemdan/AbdallahHemdan/blob/master/wave.gif" width="30px">, I'm [Shubham Singh](https://www.linkedin.com/in/shubham-singh-09b09a203/) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
