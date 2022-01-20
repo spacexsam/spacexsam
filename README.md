@@ -41,7 +41,7 @@
 <!-- <a href="https://www.geeksforgeeks.org/python-programming-language/?ref=leftbar" target="_blank"> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" alt="python" width="85" height="25"/> </a>  -->
 <a href="https://www.geeksforgeeks.org/html-tutorials/?ref=lbp" target="_blank"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" width="75" height="25"/> </a> 
 <a href="https://www.geeksforgeeks.org/css-tutorials/?ref=lbp" target="_blank"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" width="75" height="25"/> </a> 
-<a href="https://www.geeksforgeeks.org/javascript-tutorial/?ref=lbp" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" width="90" height="25"/> </a>
+<a href="https://www.geeksforgeeks.org/javascript-tutorial/?ref=lbp" target="_blank"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" width="95" height="25"/> </a>
 <!-- <a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" width="75" height="25"/> </a>  -->
 
 </p>
