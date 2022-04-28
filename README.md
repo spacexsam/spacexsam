@@ -29,7 +29,7 @@
 <p align="left">
 <a href="https://www.hackerrank.com/samgeorgian12" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="@samgeorgian12" height="25" width="95" /></a>
 <a href="https://www.hackerearth.com/@samgeorgian12" target="blank"><img align="center" src="https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue" alt="@samgeorgian12" height="25" width="100" /></a>  
-<a href="https://www.codechef.com/users/shubham7312" target="blank"><img align="center" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="shubham7312" height="25" width="95" /></a>    
+<a href="https://www.codechef.com/users/samxxspace" target="blank"><img align="center" src="https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white" alt="samxxspace" height="25" width="95" /></a>    
 <a href="https://leetcode.com/sam_georgian/" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="sam_georgian" height="25" width="90" /></a>     
 </p>
 
