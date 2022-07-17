@@ -7,7 +7,7 @@
 <a href="https://github.com/samgeorgian" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="samgeorgian" height="25" width="90" /></a>
 </p>
 <p align="center">
-<img  align = "right" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" width="45%" alt="samgeorgian"/>
+<img  align = "right" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" width="500" height="400" alt="samgeorgian"/>
 </p>
 
 [![Repos Badge](https://badges.pufler.dev/repos/samgeorgian)](https://badges.pufler.dev)
