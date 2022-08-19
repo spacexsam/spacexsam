@@ -13,12 +13,12 @@
 [![Repos Badge](https://badges.pufler.dev/repos/samgeorgian)](https://badges.pufler.dev)
 <img src="https://komarev.com/ghpvc/?username=samgeorgian&label=Visitors&color=0e75b6&style=flat" alt="samgeorgian" />
 
-- 🔭 I’m currently working on my coding skills and CP.
-- 🌱 I’m also currently learning C++ and DS Algo.
-- 💬 Ask me about any tech related stuff.
-- 📫 How to reach me: <a href="mailto:samgeorgian12@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="samgeorgian" height="20" width="60" /></a>
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I mostly spend my time listing songs and enhancing my skills.
+- 🔭 <b>I’m currently working on my coding skills and CP.</b>
+- 🌱 <b>I’m also currently learning C++ and DS Algo.</b>
+- 💬 <b>Ask me about any tech related stuff.</b>
+- 📫 <b> How to reach me: <a href="mailto:samgeorgian12@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="samgeorgian" height="20" width="60" /></a></b>
+- 😄 <b>Pronouns: He/His</b>
+- ⚡ <b>Fun fact: I mostly spend my time listing songs and enhancing my skills.</b>
 <!-- - 👨‍💻 All of my projects are available at [harshit9270.xyz](https://harshit9270.xyz) -->
 <!-- - 📝 I regularly write articles on [harshit9270.medium.com](https://harshit9270.medium.com/) -->
 <!-- - 💬 Ask me about **javascript bugs** -->
