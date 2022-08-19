@@ -10,7 +10,7 @@
 <img  align = "right" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" width="400" height="300" alt="samgeorgian"/>
 </p>
 
-[![Repos Badge](https://badges.pufler.dev/repos/samgeorgian)](https://badges.pufler.dev)
+<!-- [![Repos Badge](https://badges.pufler.dev/repos/samgeorgian)](https://badges.pufler.dev) -->
 <img src="https://komarev.com/ghpvc/?username=samgeorgian&label=Visitors&color=0e75b6&style=flat" alt="samgeorgian" />
 
 - 🔭 <b>I’m currently working on my coding skills and CP.</b>
