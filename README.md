@@ -7,16 +7,16 @@
 <a href="https://github.com/samgeorgian" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="samgeorgian" height="25" width="90" /></a>
 </p>
 <p align="center">
-<img  align = "right" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" width="400" height="300" alt="samgeorgian"/>
+<img  align = "right" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif" width="400" height="300" alt="spacexsam"/>
 </p>
 
-<!-- [![Repos Badge](https://badges.pufler.dev/repos/samgeorgian)](https://badges.pufler.dev) -->
-<img src="https://komarev.com/ghpvc/?username=samgeorgian&label=Visitors&color=0e75b6&style=flat" alt="samgeorgian" />
+<!-- [![Repos Badge](https://badges.pufler.dev/repos/spacexsam)](https://badges.pufler.dev) -->
+<img src="https://komarev.com/ghpvc/?username=spacexsam&label=Visitors&color=0e75b6&style=flat" alt="spacexsam" />
 
 - 🔭 <b>I’m currently working on my coding skills and CP.</b>
 - 🌱 <b>I’m also currently learning C++ and DS Algo.</b>
 - 💬 <b>Ask me about any tech related stuff.</b>
-- 📫 <b> How to reach me: <a href="mailto:samgeorgian12@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="samgeorgian" height="20" width="60" /></a></b>
+- 📫 <b> How to reach me: <a href="mailto:samgeorgian12@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="spacexsam" height="20" width="60" /></a></b>
 - 😄 <b>Pronouns: He/His</b>
 - ⚡ <b>Fun fact: I mostly spend my time listing songs and enhancing my skills.</b>
 <!-- - 👨‍💻 All of my projects are available at [harshit9270.xyz](https://harshit9270.xyz) -->
@@ -54,14 +54,13 @@
  
  <table>
   <tr>
-   <td><img src="https://github-readme-stats.vercel.app/api?username=samgeorgian&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sam" />
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=samgeorgian&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="sam" /></td>
+   <td><img src="https://github-readme-stats.vercel.app/api?username=spacexsam&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Sam" />
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=spacexsam&show_icons=true&locale=en&layout=compact&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="sam" /></td>
   </tr>
 </table>
 
 <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=samgeorgian&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&ring=DD8D25&fire=C0A600&dates=F09D21&stroke=FF9216&border=9C9C9CB3" alt="samgeorgian" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=spacexsam&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D&ring=DD8D25&fire=C0A600&dates=F09D21&stroke=FF9216&border=9C9C9CB3" alt="spacexsam" />
 </p>
 
-
-<!-- <img src="https://activity-graph.herokuapp.com/graph?username=samgeorgian&theme=react-blayck&bg_color=ffffff&hide_border=true" width="100%"/> -->
+<img src="https://activity-graph.herokuapp.com/graph?username=spacexsam&theme=react-blayck&bg_color=ffffff&hide_border=true" width="100%"/> 
